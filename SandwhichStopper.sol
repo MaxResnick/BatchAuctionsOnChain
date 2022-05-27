@@ -1,3 +1,5 @@
+// This is pseudcode, not meant to actually work 
+
 struct order{ //tuple with order size (amount) and slippage tolerance (slippageTolerance)
 int256 amount,
 int256 slippageTolerance
